@@ -44,5 +44,3 @@ def task():
         else:
             print("Invalid input")
 
-# To run the app, uncomment the next line:
-# task()

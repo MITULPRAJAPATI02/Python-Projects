@@ -44,5 +44,5 @@ def task():
         else:
             print("Invalid input")
 
-# To run the app, uncomment the next line:
-# task()
+if __name__ == "__main__":
+    task()

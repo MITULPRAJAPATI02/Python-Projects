@@ -44,8 +44,7 @@ def task():
         else:
             print("Invalid input")
 
-<<<<<<< HEAD
+
 if __name__ == "__main__":
     task()
-=======
->>>>>>> 627bf4adc19714ef204cbfa414eed2aefe27518a
+
